@@ -1,0 +1,16 @@
+{
+    "title": "Sevan lake",
+    "imgs": [
+        "https://github.com/Ash2803/places_for_WTG/blob/0b5d8d4469973dbbb302f768ccd267621dbd569e/media/sevan2.jpg",
+        "https://github.com/Ash2803/places_for_WTG/blob/0b5d8d4469973dbbb302f768ccd267621dbd569e/media/sevan1.jpg",
+        "https://github.com/Ash2803/places_for_WTG/blob/0b5d8d4469973dbbb302f768ccd267621dbd569e/media/sevan3.jpg",
+        "https://github.com/Ash2803/places_for_WTG/blob/0b5d8d4469973dbbb302f768ccd267621dbd569e/media/sevan4.jpg",
+        "https://github.com/Ash2803/places_for_WTG/blob/0b5d8d4469973dbbb302f768ccd267621dbd569e/media/sevan5.jpg"
+    ],
+    "description_short": "The biggest lake in the Caucasus, located at 1899 meters above the sea level is one of the highest located lakes in the world. It’s part of the Sevan National Park, one of the four protected areas in Armenia.",
+    "description_long": "<p>Lake Sevan takes 3% of the country, 28 rivers flow into the lake but only one, Hrazdan, flows out. The lake is known for the variety of flora and fauna, including the most famous Sevan trout. But the beautiful nature and views aren’t the only reason to visit Lake Sevan, you can find some amazing monuments here too. Don’t miss Noratus cemetery from the medieval times. You will find there some of the most beautiful khachkars – the Armenian carved cross-stones, each of them saying the story of the person who is buried there. This is actually the largest cemetery with khachkars in the world and a truly fascinating place. Around Lake Sevan, you should also visit beautiful monasteries, especially Hayravank and Sevanavank. They both are located beautifully above the lake, offering amazing views of Lake Sevan. Hayravank was built between 9th and 12th century and Sevanavank complex (there are two monasteries and the third ruined one) was founded in the year 874. Near Sevanavank you can also find one of the best examples of brutalist architecture in Armenia – the Writer’s House.</p>",
+    "coordinates": {
+        "lng": "44.952162858",
+        "lat": "40.552997788"
+    }
+}
