@@ -1,0 +1,14 @@
+{
+    "title": "Jermuk Waterfall",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/jerm.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/jerm3.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/jerm1.jpg"
+    ],
+    "description_short": "Probably one of the most popular waterfalls in Armenia is Jermuk Waterfall, also known as the Hair of the Mermaid.",
+    "description_long": "<p>The water of Jermuk Waterfall does not fall from the rocks like other waterfalls in Armenia, but rather it slides down the rocks with several small streams looking like hairlines and eventually falling into the Arpa River. It is 72 meters high. There are many things to do in Jermuk and the famous waterfall brings a lot of tourists there to experience them once they are done enjoying the spectacular natural sight.</p>",
+    "coordinates": {
+        "lng": "45.668176",
+        "lat": "39.836556"
+    }
+}
