@@ -1,14 +1,14 @@
 {
-    "title": "Haghpat Monastery",
+    "title": "Amberd Fortress",
     "imgs": [
-        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/haghpat.jpg",
-        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/haghpat1.jpg",
-        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/haghpat2.jpg"
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/amberd2.png",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/amberd1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/amberd.jpg"
     ],
-    "description_short": "The beautiful monastery, located near the city Alaverdi in Lori Province, close to the Georgian border, was built between the 10th and 13th centuries during the rule of the Bagratid’s dynasty. In the Middle Ages, it used to play an important role as the religious, spiritual, educational, cultural and scientific center.",
-    "description_long": "<p>Some sources say that the first monastery in this place was built in the 4th century, on the ruins of the pagan temple. The monastery complex is surrounded by medieval walls. Inside you can find four churches, the library, the bell tower, the tomb, and numerous khachkars. The main church, the Cathedral of Surb Nishan, was completed at the very end of the 10th century and shows the typical Armenian architecture from that period. The location of the Haghpat complex was chosen on purpose, halfway on the hillside, overlooking Debed River. Haghpat Monastery is another site in Armenia that is part of the UNESCO World Heritage List.</p>",
+    "description_short": "The name of the fortress means “fortress in the clouds” in Armenian language and that is very accurate as the site is located 2.300 meters above the sea level, on the slopes of Mount Aragats, the highest mountain in the country.",
+    "description_long": "<p>The citadel was built between the 10th and 13th century and used to be one of the most important defense points on the Armenian territory. Today you can still admire the remnants of the fortress as well as Vahramashen Church from the 11th century, the bathhouse and the hidden passage to the river Arkashen.</p>",
     "coordinates": {
-        "lng": "44.711944",
-        "lat": "41.093889"
+        "lng": "44.2728",
+        "lat": "40.2417"
     }
-} 
+}
