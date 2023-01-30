@@ -1,0 +1,13 @@
+{
+    "title": "Relax in the Lovers’ Park",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/lov.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/lov2.jpg"
+    ],
+    "description_short": "Yerevan has a few nice green spaces, like the Victory Park or parks near the Republic Square, but the most pleasant one is small Lovers’ Park, located right next to the Marshal Baghramyan metro station.",
+    "description_long": "<p>Even if the park in this location has been part of the city for years, the current look was given to it in 2008 after the renovation works. As the name says, this is the favorite hang out place for the couples but everyone else is more than welcome to. On the premises, you can find lots of well-maintained lanes and benches, numerous sculptures, an open-air cafe or the small amphitheater. This is yet another perfect getaway from the hustle and bustle of the city.</p>",
+    "coordinates": {
+        "lng": "44.50674",
+        "lat": "40.19128"
+    }
+}
