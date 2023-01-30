@@ -1,0 +1,14 @@
+{
+    "title": "Gegharot Waterfall",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/gex1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/gex2.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/gex4.jpg"
+    ],
+    "description_short": "Gegharot Waterfall is located in the Aragatsotn region, 11 kilometers northwest of Aragats village. It is registered on the list of state natural monuments of the Ministry of Nature Protection in the Republic of Armenia.",
+    "description_long": "<p>This eye-catching waterfall is located on the slope of Aragats, about 3000 meters above sea level on the Gegharot tributary of the Kasagh River. This river is located about 12 kilometers away from the aforementioned Aragats village. Gegharot Waterfall freezes during wintertime, but in summer, its cold waters fall from a height of about 17 meters, making it one of the most picturesque locations in the region. Definitely take your camera with you while visiting this Armenian waterfall!</p>",
+    "coordinates": {
+        "lng": "44.20761",
+        "lat": "40.50219"
+    }
+}
