@@ -1,0 +1,16 @@
+{
+    "title": "Geghard Monastery",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/geg.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/geg1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/geg2.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/geg3.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/geg4.jpg"
+    ],
+    "description_short": "The monastery complex from the 4th century is one of the Armenian sights that made it to the UNESCO World Heritage List. What makes it special is the fact that many of the churches and tombs were cut into the rock, showing the Armenian medieval architecture at its best.",
+    "description_long": "<p>Since the 12th century, when the relicts of Apostles Andrew and John were donated to the monastery, the place became a popular pilgrim destination. The main church – The Katoghike Chapel – was built in 1215 on the shape of a cross. It is covered by the dome with the hole in the middle – its purpose is to give the light to the interior. The Geghard Monastery complex has a beautiful location, surrounded by the breathtaking cliffs that are part of the Azat River Gorge. Getting to the monastery is interesting itself as the road leading to the complex is stunning too, going through the gorge. You can combine visiting Geghard Monastery with Garni Temple as these sights are not too far from each other.</p>",
+    "coordinates": {
+        "lng": "44.8185299",
+        "lat": "40.1404412"
+    }
+} 
