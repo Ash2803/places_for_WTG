@@ -1,0 +1,14 @@
+{
+    "title": "Matenadaran",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/mater.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/mater3.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/mater4.jpg"
+    ],
+    "description_short": "Another fascinating place to visit in Yerevan is a unique museum called the Institute of Ancient Manuscripts, mostly known as Matenadaran.",
+    "description_long": "<p>This church of ancient manuscripts is considered one of the rarest museums in the world and is the pride of Armenia. Built between 1945 and 1958, architect Mark Grigorian was inspired by Armenian medieval architecture. The collection in Matenadaran is a mind-blowing 23,000 manuscripts and scrolls and is the biggest manuscript collection in the world.</p>",
+    "coordinates": {
+        "lng": "44.52067",
+        "lat": "40.19188"
+    }
+}
