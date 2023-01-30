@@ -1,0 +1,13 @@
+{
+    "title": "Garni Temple",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/garni3.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/garni1.jpg"
+    ],
+    "description_short": "Located not far from the capital, this is probably one of the easiest day trips from Yerevan. The pagan temple dedicated to the sun god Mihr, this is the best example of the pre-Christian Armenia monuments and the only building in the Classical style in the country and the former Soviet Union.",
+    "description_long": "<p>Some sources say the temple was built in the 1st century AD, after Armenia’s conversion to Christianity in the early 4th century the temple was used as a summer house of the royal families. Other sources say this is not the temple but a tomb and therefore it survived the transformation to Christianity period. Garni Temple was destroyed during the earthquake in the 17th century but the original stones were used when rebuilding. This is the main center of neopaganism in Armenia and one of the country’s main tourist attractions.</p>",
+    "coordinates": {
+        "lng": "44.724290",
+        "lat": "40.117708"
+    }
+}
