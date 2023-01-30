@@ -1,0 +1,14 @@
+{
+    "title": "Zorats Karer / Carahunge",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/qar.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/qar1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/qar3.jpg"
+    ],
+    "description_short": "The prehistoric archaeological site, often called “the Armenian Stonehenge”, consists of 223 massive stones (84 of them have a circle hole drilled in the upper part) and is one of the most mysterious places in the country. The name Carahunge means “speaking stones” in Armenian – on a windy day, it seems like the stones give a sound.",
+    "description_long": "<p>40 stones create a circle that is believed to be the remnant of the temple dedicated to the pagan god of the sun. Other sources claim this is the ancient observatory or the cemetery. Numerous investigations took place at Zorats Karer but no one really knows what was the purpose of the stones.</p>",
+    "coordinates": {
+        "lng": "46.0286",
+        "lat": "39.5507"
+    }
+}
