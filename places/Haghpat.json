@@ -1,0 +1,14 @@
+{
+    "title": "Haghpat Monastery",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/haghpat.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/haghpat1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/haghpat2.jpg"
+    ],
+    "description_short": "The beautiful monastery, located near the city Alaverdi in Lori Province, close to the Georgian border, was built between the 10th and 13th centuries during the rule of the Bagratid’s dynasty. In the Middle Ages, it used to play an important role as the religious, spiritual, educational, cultural and scientific center.",
+    "description_long": "<p>Some sources say that the first monastery in this place was built in the 4th century, on the ruins of the pagan temple. The monastery complex is surrounded by medieval walls. Inside you can find four churches, the library, the bell tower, the tomb, and numerous khachkars. The main church, the Cathedral of Surb Nishan, was completed at the very end of the 10th century and shows the typical Armenian architecture from that period. The location of the Haghpat complex was chosen on purpose, halfway on the hillside, overlooking Debed River. Haghpat Monastery is another site in Armenia that is part of the UNESCO World Heritage List.</p>",
+    "coordinates": {
+        "lng": "44.711944",
+        "lat": "41.093889"
+    }
+} 
