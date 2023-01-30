@@ -1,0 +1,14 @@
+{
+    "title": "Noravank Monastery",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/nor1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/nor2.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/nor3.jpg"
+    ],
+    "description_short": "This is one of my favorite places to visit in Armenia (besides Yerevan and the monasteries in the north), impressing me every single time. Noravank monastery complex is located at the end of the long and narrow gorge and is surrounded by high cliffs of beautiful orange and red colors.",
+    "description_long": "<p>The complex itself dates to the 13th century and shortly after became the seat of Syunik’s bishops and the important religious and cultural center of the country. In the complex, you can visit twelve different objects, including two-floors Surb Astvatsatsin Church, Surb Karapet Church, and Surb Grigor Chapel as well as numerous khachkars. The monastery was partially destroyed by the earthquake in 1840 but was rebuilt still in the 19th century.</p>",
+    "coordinates": {
+        "lng": "39.706021",
+        "lat": "39.706021"
+    }
+}
