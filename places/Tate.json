@@ -1,0 +1,15 @@
+{
+    "title": "Tatev Monastery",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/tatev.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/tatev1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/tatev2.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/tatev3.jpg"
+    ],
+    "description_short": "Yet another one of Armenian monasteries with a spectacular location in Southern Armenia, the fortified Tatev Monastery was built in the early 9th century at the edge of the deep gorge in the southern part of the country. It always played an important role in the spiritual, cultural and educational life of the country.",
+    "description_long": "<p>Tatev Monastery used to be the seat of a bishop, that’s also where at the end of the 14th century the biggest university in Southern Caucasus was established, teaching students numerous sciences. In the monastery complex, you can visit three churches (Saints Paul and Peter, Saint Gregory the Illuminator, and Holy Mother of God), a library, refectory, bell tower, mausoleum. Getting to the monastery is quite an adventure itself! You can take windy roads on the edge of precipices or you can take the so-called “Wings of Tatev” cable car. It was opened in 2010 and was included in the Guinness World Records as the world’s longest non-stop double track cable car. The cable car takes around 15 minutes to get from the Halidzor village to Tatev monastery, it’s a distance of 5.752 meters.</p>",
+    "coordinates": {
+        "lng": "46.250266",
+        "lat": "39.379309"
+    }
+}
