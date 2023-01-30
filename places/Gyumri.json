@@ -1,0 +1,15 @@
+{
+    "title": "Gyumri",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/gyumri4.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/gyumri3.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/gyumri2.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/gyumri1.jpg",
+    ],
+    "description_short": "The second-largest city in Armenia, Gyumri, was badly devastated during the 1988 earthquake and even today you can still see how badly the city was destroyed then. But despite the tragedy that the city still suffers from, Gyumri is so worth a visit.",
+    "description_long": "<p>In 1837 Russians built the fortress here, called Alexanropol (named after the tsar), soon after the city was built nearby. Before the earthquake, Gyumri was known as the most beautiful city in Armenia, today you can see the remnants of the former glory when walking around the pleasant center, with its main square – Vartanants Square. While Yerevan is known for the pink tuff the city was built from, in Gyumri, most of the buildings are black thanks to the volcanic tuff that was used here. You will find here another one, after Yerevan, Mother Armenia statue – this one has a more friendly look than the one in the capital. Gyumri is also home to some interesting museums, churches, bazaar and some cool Soviet sculptures, such as the iconic metal fountain.</p>",
+    "coordinates": {
+        "lng": "43.841829966",
+        "lat": "40.786996852"
+    }
+} 
