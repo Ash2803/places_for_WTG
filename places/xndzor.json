@@ -1,0 +1,14 @@
+{
+    "title": "The cave city of Khndzoresk",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/xndzor.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/xndzor1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/xndzor3.jpg"
+    ],
+    "description_short": "Hike through the historic village of Old Khndzoresk, located on the steep slope of a gorge, and explore natural and manmade caves. Fully inhabited around the 17th and 18th centuries with more than 8,000 residents—and partially inhabited until 1958—Old Khndzoresk once boasted homes, schools, cheese factories, churches, and even a bar where villagers could socialize at night.",
+    "description_long": "<p>In addition to the cave houses in the abandoned city, you can see the ruins of the church of St. Hripsime with the bell tower and the church of St. Tadevos (Thaddeus). Two springs were also saved, over which monuments were built: the local residents had no problems with drinking water. In Khndzoresk, you can also see the remains of a children’s Sunday school. The most intriguing and perhaps a bit scary sight of this region is the swinging bridge, which was built by the local resident Zhora Aleksanyan, and was built by the whole village. They built the bridge manually because the necessary technology was not easy to get. Previously, to get to the other side, residents and tourists were forced to walk 6 km. Locals thus connected not only the two sides of the gorge but also the old Khndzoresk with the new one, unforgotten past – with the present.</p>",
+    "coordinates": {
+        "lng": "46.42871",
+        "lat": "39.51523"
+    }
+}
