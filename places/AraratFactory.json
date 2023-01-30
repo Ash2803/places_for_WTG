@@ -1,0 +1,15 @@
+{
+    "title": "Yerevan Cascade Complex",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/wine.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/wine1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/wine2.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/wine3.jpg"
+    ],
+    "description_short": "Another top thing to do in Yerevan is to visit the legendary Ararat Brandy Factory which is a perfect place to try one of the world’s best Armenian brandy/cognac.",
+    "description_long": "<p>The beloved Armenian cognac of Winston Churchill and Joseph Stalin was established at the end of the 19th century and since then has become one of the must-see places of Armenian alcohol making. To learn about, have a tasting, and take a historical tour in the Ararat Brandy Factory, it is necessary to register on their <a class=\"external-link\" href=\"https://en.araratbrandy.com/ \" target=\"_blank\">website</a> or make an appointment by calling them. The tour involves a walk through the factory, a brandy tasting, a guide on how to drink it, and interesting and historical information about their brand. After the tour, you can also buy Armenian brandy right on the spot. The Ararat Brandy Factory is located right next to the Victory bridge at the entrance of the city.</p>",
+    "coordinates": {
+        "lng": "44.501176",
+        "lat": "40.173633"
+    }
+}
