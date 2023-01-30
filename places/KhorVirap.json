@@ -1,0 +1,13 @@
+{
+    "title": "Khor Virap Monastery",
+    "imgs": [
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/virap1.jpg",
+        "https://raw.githubusercontent.com/Ash2803/places_for_WTG/main/media/virap.jpg"
+    ],
+    "description_short": "This is probably the best known Armenian monastery, located on the plain near the closed border with Turkey and iconic Mount Ararat. The view of the monastery with Ararat in the background is probably the most pictured place in Armenia.",
+    "description_long": "<p>Khor Virap is a popular pilgrimage site due to the fact that Gregory the Illuminator was imprisoned here by King Tiridates III of Armenia. Today you can go down the ladder to the dungeons where the Saint spent 14 years, the way down is a bit narrow and slippery so keep that in mind. Besides the pit, you can also see here the Surp Astvatsatsin Church from the 17th century.</p>",
+    "coordinates": {
+        "lng": "44.57623",
+        "lat": "39.87833"
+    }
+}
